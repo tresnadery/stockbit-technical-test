@@ -1,6 +1,0 @@
-mode: atomic
-stockbit-test/test4/test4.go:8.62,9.21 1 2
-stockbit-test/test4/test4.go:13.2,14.29 2 1
-stockbit-test/test4/test4.go:19.2,19.23 1 1
-stockbit-test/test4/test4.go:9.21,11.3 1 1
-stockbit-test/test4/test4.go:14.29,18.3 3 7
